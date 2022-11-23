@@ -253,6 +253,23 @@ h5.price{
     margin-bottom: 10px;
 }
 
+.background-hotel {
+    background-image: url('racay4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+    margin-bottom: 10px;
+}
+
+.background-flight {
+    background-image: url('racay9.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+    margin-bottom: 10px;
+}
+
+
 h1.vacay {
     text-align: center;
     font-size: 60px;
