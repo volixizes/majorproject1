@@ -245,6 +245,14 @@ h5.price{
     margin-bottom: 10px;
 }
 
+.background-tours {
+    background-image: url('racay13.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+    margin-bottom: 10px;
+}
+
 h1.vacay {
     text-align: center;
     font-size: 60px;
