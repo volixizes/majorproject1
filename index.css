@@ -219,6 +219,7 @@ p.card_body{
 h2.header_card2 {
     text-align: center;
     color:#044795;
+    margin-top: 20px ;
 }
 
 p.card-text {
@@ -234,17 +235,14 @@ h5.price{
     text-align: center;
 }
 
-* {
-    margin-0;
-    padding: 0;
-}
+
 
 .background-image {
     background-image: url('package3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 120vh;
-
+    margin-bottom: 10px;
 }
 
 h1.vacay {
