@@ -50,7 +50,6 @@ header img {
 
 footer {
     background-color: #044795;
-    font-size: 10px;
 }
 
 .information a {
@@ -250,7 +249,7 @@ h5.price{
 
 h1.vacay {
     text-align: center;
-    font-size: 40px;
+    font-size: 60px;
     color: white;
     font-weight: bold;
     font-family: arial;
